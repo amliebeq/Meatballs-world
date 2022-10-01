@@ -9,3 +9,9 @@ h2 {
     color: forestgreen;
     text-align: center;
 }
+img {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
