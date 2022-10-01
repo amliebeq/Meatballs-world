@@ -22,3 +22,11 @@ h3 {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+a {
+    font-size: 16pt;
+    color: #2196f3;
+}
+#Mascotball:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
